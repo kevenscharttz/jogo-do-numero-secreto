@@ -8,6 +8,6 @@ O projeto é um **jogo de adivinhação**, onde o jogador deve tentar descobrir 
 
 ## Tecnologias Utilizadas  
 
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
+- **HTML**  ;
+- **CSS**  ;
+- **JavaScript**  .
